@@ -1,0 +1,10 @@
+artifact_location: /content/drive/MyDrive/Colab Notebooks/UFC_Project/mlruns/665380585418381854/models/m-12b35f995db941a486a14c773ffa7be3/artifacts
+creation_timestamp: 1771182891237
+experiment_id: '665380585418381854'
+last_updated_timestamp: 1771182901148
+model_id: m-12b35f995db941a486a14c773ffa7be3
+model_type: null
+name: model
+source_run_id: 4fb1582069e04fd1a00cbbab2c5e89fa
+status: 2
+status_message: null

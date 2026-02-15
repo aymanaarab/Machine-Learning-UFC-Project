@@ -1,0 +1,14 @@
+artifact_uri: /content/drive/MyDrive/Colab Notebooks/UFC_Project/mlruns/665380585418381854/35e5756c35af468ab7ec49b781bc1986/artifacts
+end_time: 1771182712248
+entry_point_name: ''
+experiment_id: '665380585418381854'
+lifecycle_stage: active
+run_id: 35e5756c35af468ab7ec49b781bc1986
+run_name: DT_depthNone_gini_mss2_msl1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182704231
+status: 3
+tags: []
+user_id: root

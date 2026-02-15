@@ -1,0 +1,14 @@
+artifact_uri: /content/drive/MyDrive/Colab Notebooks/UFC_Project/mlruns/665380585418381854/e59d49c9977c45bd8ab13b897804d4ff/artifacts
+end_time: 1771182727448
+entry_point_name: ''
+experiment_id: '665380585418381854'
+lifecycle_stage: active
+run_id: e59d49c9977c45bd8ab13b897804d4ff
+run_name: DT_depth5_entropy_mss2_msl1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771182719467
+status: 3
+tags: []
+user_id: root

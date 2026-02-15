@@ -1,0 +1,23 @@
+artifact_path: /content/drive/MyDrive/Colab Notebooks/UFC_Project/mlruns/665380585418381854/models/m-66ad727dd1084e60a3e83af1fa560aca/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.9.0
+model_id: m-66ad727dd1084e60a3e83af1fa560aca
+model_size_bytes: 6374
+model_uuid: m-66ad727dd1084e60a3e83af1fa560aca
+prompts: null
+run_id: ddf2a69dedc44dda8b2f37430c8f6ba7
+utc_time_created: '2026-02-15 19:12:25.629299'
