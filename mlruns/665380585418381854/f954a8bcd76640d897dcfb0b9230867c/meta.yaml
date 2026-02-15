@@ -1,0 +1,14 @@
+artifact_uri: /content/drive/MyDrive/Colab Notebooks/UFC_Project/mlruns/665380585418381854/f954a8bcd76640d897dcfb0b9230867c/artifacts
+end_time: 1771116573054
+entry_point_name: ''
+experiment_id: '665380585418381854'
+lifecycle_stage: active
+run_id: f954a8bcd76640d897dcfb0b9230867c
+run_name: clustering_kmeans_k5_full
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771116572276
+status: 3
+tags: []
+user_id: root
